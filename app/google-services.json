@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "104143601790",
+    "firebase_url": "https://egcobenjarat.firebaseio.com",
+    "project_id": "egcobenjarat",
+    "storage_bucket": "egcobenjarat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104143601790:android:ef6a438b55bde2f4",
+        "android_client_info": {
+          "package_name": "com.egco428.sendfireimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104143601790-6mq8olggs245i8u2gmllvaqo3frnd6ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egco428.sendfireimage",
+            "certificate_hash": "b1c6a48852834313de3da778889be2dfe0e13625"
+          }
+        },
+        {
+          "client_id": "104143601790-18i1d0hq6cim6immff27d5asf080lkin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjkehIj8FKnzQ_p1iGW0bceJwuR2-a7TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104143601790-18i1d0hq6cim6immff27d5asf080lkin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
